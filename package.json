@@ -18,5 +18,8 @@
   "homepage": "https://github.com/tommywintersr/NodeServer#readme",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "pm2": "^2.9.3"
   }
 }
