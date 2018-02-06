@@ -1,5 +1,5 @@
 # NodeServer
 ## ReactJS app front end
-## NodeJS backend on AWS
+## NodeJS (AWS ec2)
 ## Express server
 ## MongoDB(?)
