@@ -1,2 +1,5 @@
 # NodeServer
-Express server on AWS ec2 instance with deploy script from repo to prod
+-ReactJS app front end
+-NodeJS backend on AWS
+-Express server
+-MongoDB(?)
